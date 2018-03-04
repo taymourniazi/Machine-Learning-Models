@@ -37,5 +37,6 @@
 
 5.) Support_Vector_Regression --- Using SVR with eps-regression technique, Library used - e1071, Inverse transformation to get result without feature scaling (i.e in original data type)
 
-6.) Decision_Tree_Regression ---- (splitting into leaves, recommending a best suit, showing a 1 dimension decision which turn into worst, High resolution tuning, printing the leaves)
-  7.) Random Forest Regression ---- (Building RFR model and tuning its performance by increasing number of Decision Trees)
+6.) Decision_Tree_Regression ---- (splitting into leaves, recommending a best suit, showing a 1 dimension decision which turn into worst, High resolution tuning, printing the leaves)  
+  
+7.) Random Forest Regression ---- (Building RFR model and tuning its performance by increasing number of Decision Trees)
