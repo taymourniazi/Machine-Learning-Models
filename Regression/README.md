@@ -1,9 +1,6 @@
 # Python Codes For Building Machine Learning Models (Regression)  
 
-## ... In Progress ....
-  
-
-### Content
+## Content
 
 1.) Data Preprocessing Techniques(Missing Values, label encoding, One hot encoding, feature scaling, splitting data in train and test set)  
   
@@ -25,8 +22,7 @@
   
   
 #  R Codes For Machine Learning
-## ... In Progress
-### Content  
+## Content  
   
   
 1.) Data Preprocessing Techniques(Missing Values, factorencoding, feature scaling, spliting data in train and test set)
