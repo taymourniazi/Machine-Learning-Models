@@ -1,3 +1,2 @@
 # Clustering
 ## Content
-### ...In Progress...
